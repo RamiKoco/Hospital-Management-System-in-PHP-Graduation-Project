@@ -24,6 +24,7 @@ if(isset($_POST['submit']))
     {
       echo '<script>alert("Bir şeyler yanlış gitti. Lütfen tekrar deneyin")</script>';
     }
+	
 
   
 }
